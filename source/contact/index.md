@@ -8,7 +8,7 @@ layout: "contact"
 ## Stay up to date
 If you want stay up to date use one or multiple of the following options:
 - [Follow us on Github]( https://github.com/DisplayHive )
-- [Mastodon] ( https://chaos.social/@DisplayHive )
+- [Mastodon]( https://chaos.social/@DisplayHive )
 - [Join the Telegram channel]( https://t.me/DisplayHive ) (Announcments only - Low Traffic)
 - [Join the Telegram group]( https://t.me/DisplayHiveDicussion ) (Discussions)
 - [Get the RSS feed]( http://displayhive.org/atom.xml )
