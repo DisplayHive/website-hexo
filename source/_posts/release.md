@@ -1,6 +1,6 @@
 ---
-title: Website Launch
-date: 2026-05-13 09:25:00
+title: Displayhive Release
+date: 2026-07-10 21:17:00
 author: justelex
 img: /images/dummy.png
 top: false
