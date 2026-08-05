@@ -99,16 +99,8 @@ ignore:
 theme: website_hexo_theme
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: rsync
-  host: displayhive.org
-  user: justelex
-  root: /var/www/displayhive.org
-  port: 22
-  delete: false
-  verbose: true
-  ignore_errors: false
+## `pnpm run deploy` builds the site and copies it to /var/www/displayhive.org
+## via scripts/deploy.sh (local rsync + chown/chmod), no remote deployer needed.
 
 search:
   path: search.xml
