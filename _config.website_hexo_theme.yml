@@ -10,3 +10,7 @@ menu:
   Docs:
     url: https://docs.displayhive.org/
     icon: fas fa-book
+
+# Hide the "recommended posts" card on the homepage (the white bar).
+recommend:
+  enable: false
