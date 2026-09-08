@@ -1,0 +1,12 @@
+# Alternate theme config for `website_hexo_theme`.
+# Hexo deep-merges this over themes/website_hexo_theme/_config.yml, so the
+# theme submodule stays untouched. Keys here win.
+
+# Extra top-bar menu entries (merged with the theme's built-in menu).
+menu:
+  "What is?":
+    url: /what-is-displayhive/
+    icon: fas fa-circle-info
+  Docs:
+    url: https://docs.displayhive.org/
+    icon: fas fa-book
