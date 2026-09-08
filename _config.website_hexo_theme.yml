@@ -14,3 +14,7 @@ menu:
 # Hide the "recommended posts" card on the homepage (the white bar).
 recommend:
   enable: false
+
+# Default image for Open Graph / Twitter social cards (used when a page has no
+# own thumbnail). Falls back to the theme logo if unset.
+og_image: /medias/cover.jpg

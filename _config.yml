@@ -4,9 +4,9 @@
 
 # Site
 title: DisplayHive
-subtitle: 'DisplayHive'
-description: ''
-keywords:
+subtitle: 'Open-Source Digital Signage Platform'
+description: 'Open-source, self-hosted digital signage. Drive one screen or hundreds, build your own designs, and push content that updates live with no cache to clear.'
+keywords: 'digital signage, open source digital signage, self-hosted digital signage, digital signage software, DisplayHive'
 author: Justelex
 language: en
 timezone: ''
@@ -17,8 +17,8 @@ url: https://displayhive.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -118,3 +118,7 @@ feed:
 
 sitemap:
   path: sitemap.xml
+  # Keep thin single-post listing pages out of the sitemap (they are also
+  # noindex'd in the theme head). Re-enable once there is real content volume.
+  tags: false
+  categories: false
