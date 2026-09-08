@@ -19,11 +19,11 @@ DisplayHive lets you build your own design. Dynamic backgrounds, gradients, grap
 ## Content
 An admin can create content elements that hold multiple content fields of different types: text, rich text, links, images, icons, arrows, tables, countdowns, and even a Pretalx schedule. Content fields can be pre-filled, locked, or hidden, so an editor only ever sees what matters for the job.
 
-## Live Changing
+## Instant Content updates
 Changes are live. There is no cache to clear and no reload to wait for: edit something, hit save, and it updates on the screens immediately, whether they are in the next room or a hundred kilometres away. Every content item can carry a display duration and an optional active window, so it only appears during a set date-and-time range.
 
 ## Offline Mode
-If a Wi-Fi–connected device loses its connection or otherwise the uplink is gone, the display keeps showing the current playlist until it reconnects to the network. On reconnect, every display is updated to the current state immediately. No manual refresh is necessary — it just works.
+If a device loses its connection, the display keeps showing the current playlist until it reconnects to the network. On reconnect, every display is updated to the current state immediately. No manual refresh is necessary — it just works.
 
 ## Live Preview
 When you edit a design or a content element, you always get a live preview that shows exactly what any screen is rendering, without walking over to it.
